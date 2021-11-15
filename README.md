@@ -1,2 +1,2 @@
 # zhanglong12138.github.io
-[zxlucky.com](http://zxlucky.com)
+[blog.zxlucky.com](http://blog.zxlucky.com)
